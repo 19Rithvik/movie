@@ -31,7 +31,24 @@ A responsive web application built with **React.js** that allows users to browse
 
 ## 📂 Folder Structure
 
-<pre> ``` movie/ ├── public/ ├── src/ │ ├── components/ │ │ └── Moviecard.jsx │ ├── css/ │ │ ├── Home.css │ │ └── Moviecard.css │ ├── pages/ │ │ └── Home.jsx │ ├── services/ │ │ └── api.js │ └── main.jsx ├── .gitignore ├── index.html ├── package.json ├── README.md └── vite.config.js ``` </pre>
+movie/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── Moviecard.jsx
+│   ├── css/
+│   │   ├── Home.css
+│   │   └── Moviecard.css
+│   ├── pages/
+│   │   └── Home.jsx
+│   ├── services/
+│   │   └── api.js
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
 
 
 ---
